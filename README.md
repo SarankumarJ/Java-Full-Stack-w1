@@ -1,5 +1,5 @@
 # Java Full Strack 
-## 1.Write a Java program to print the sum, multiply, subtract, divide and remainder of two numbers
+## 1.Write a Java program to print the sum, multiply, subtract, divide and remainder of two numbers.
 
 ### Program:-
 ~~~java
