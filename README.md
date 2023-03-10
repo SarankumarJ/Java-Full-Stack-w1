@@ -96,7 +96,7 @@ public class Main
 {
     public static void main(String args[])
     {
-        int a=10,b=20;
+        float a=10,b=20;
         float Area_of_rhombus;
         Area_of_rhombus=(a*b)/2;
         System.out.println("Area of Rhombus is "+Area_of_rhombus);
