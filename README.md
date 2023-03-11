@@ -1,4 +1,4 @@
-# Java Full Strack 
+# Java Full Stack 
 ## 1.Write a Java program to print the sum, multiply, subtract, divide and remainder of two numbers.
 
 ### Program:-
